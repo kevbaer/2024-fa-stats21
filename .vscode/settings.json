@@ -47,10 +47,10 @@
       },
       {
           "tag": "*",
-          "color": "#98C379",
+          "color": "#34ebc9",
           "strikethrough": false,
           "underline": false,
-          "backgroundColor": "transparent",
+          "backgroundColor": "#000000",
           "bold": false,
           "italic": false
       }
